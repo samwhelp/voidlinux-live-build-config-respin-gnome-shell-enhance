@@ -29,6 +29,8 @@
 | [Voidlinux Live Build Config / Respin / Kde Plasma](https://github.com/samwhelp/voidlinux-live-build-config-respin-kde-plasma) |
 | [Voidlinux Live Build Config / Respin / Gnome Shell](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell) |
 | [Voidlinux Live Build Config / Respin / Gnome Shell / Enhance](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-enhance) |
+| [Voidlinux Live Build Config / Respin / Gnome Shell / Layout / Maccity](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-layout-maccity) |
+| [Voidlinux Live Build Config / Respin / Gnome Shell / Layout / Wincity](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-layout-wincity) |
 | [Voidlinux Live Build Config / Respin / Cinnamon](https://github.com/samwhelp/voidlinux-live-build-config-respin-cinnamon) |
 | [Voidlinux Live Build Config / Respin / Mate](https://github.com/samwhelp/voidlinux-live-build-config-respin-mate) |
 | [Voidlinux Live Build Config / Respin / Lxqt](https://github.com/samwhelp/voidlinux-live-build-config-respin-lxqt) |
